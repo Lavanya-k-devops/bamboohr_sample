@@ -6,10 +6,19 @@
     "created": "2026-01-25",
     "start_date": "2026-01-28",
     "end_date": "2026-01-28",
-    "lastChanged": "2026-01-26",
-    "status": "approved",
-    "type": "Vacation",
-    "amount": "1"
+    "status": {
+      "lastChanged": "2026-01-26",
+      "status": "approved",
+      "lastChangedBy": "HR001"
+    },
+    "type": {
+      "id": "10",
+      "name": "Vacation"
+    },
+    "amount": {
+      "unit": "days",
+      "value": "1"
+    }
   },
   {
     "id": "2",
@@ -18,10 +27,19 @@
     "created": "2026-01-27",
     "start_date": "2026-01-29",
     "end_date": "2026-01-29",
-    "lastChanged": "2026-01-28",
-    "status": "approved",
-    "type": "Sick Leave",
-    "amount": "1"
+    "status": {
+      "lastChanged": "2026-01-28",
+      "status": "approved",
+      "lastChangedBy": "HR002"
+    },
+    "type": {
+      "id": "11",
+      "name": "Sick Leave"
+    },
+    "amount": {
+      "unit": "days",
+      "value": "1"
+    }
   },
   {
     "id": "3",
@@ -30,10 +48,19 @@
     "created": "2026-01-29",
     "start_date": "2026-01-30",
     "end_date": "2026-01-30",
-    "lastChanged": "2026-01-30",
-    "status": "approved",
-    "type": "Vacation",
-    "amount": "1"
+    "status": {
+      "lastChanged": "2026-01-30",
+      "status": "approved",
+      "lastChangedBy": "HR003"
+    },
+    "type": {
+      "id": "10",
+      "name": "Vacation"
+    },
+    "amount": {
+      "unit": "days",
+      "value": "1"
+    }
   },
   {
     "id": "4",
@@ -42,10 +69,19 @@
     "created": "2026-01-30",
     "start_date": "2026-01-31",
     "end_date": "2026-01-31",
-    "lastChanged": "2026-01-31",
-    "status": "approved",
-    "type": "Casual Leave",
-    "amount": "1"
+    "status": {
+      "lastChanged": "2026-01-31",
+      "status": "approved",
+      "lastChangedBy": "HR004"
+    },
+    "type": {
+      "id": "12",
+      "name": "Casual Leave"
+    },
+    "amount": {
+      "unit": "days",
+      "value": "1"
+    }
   },
   {
     "id": "5",
@@ -54,9 +90,18 @@
     "created": "2026-01-31",
     "start_date": "2026-01-31",
     "end_date": "2026-01-31",
-    "lastChanged": "2026-01-31",
-    "status": "approved",
-    "type": "Vacation",
-    "amount": "1"
+    "status": {
+      "lastChanged": "2026-01-31",
+      "status": "approved",
+      "lastChangedBy": "HR005"
+    },
+    "type": {
+      "id": "10",
+      "name": "Vacation"
+    },
+    "amount": {
+      "unit": "days",
+      "value": "1"
+    }
   }
 ]
