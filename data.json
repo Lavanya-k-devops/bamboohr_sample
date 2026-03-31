@@ -103,47 +103,5 @@
       "unit": "days",
       "value": "1"
     }
-  },
-  {
-    "id": "6",
-    "employeeId": "TN1001",
-    "name": "Arun Kumar",
-    "created": "2026-02-05",
-    "start_date": "2026-02-06",
-    "end_date": "2026-02-06",
-    "status": {
-      "lastChanged": "2026-02-05",
-      "status": "approved"
-    },
-    "type": { "name": "Sick Leave" },
-    "amount": { "value": "1" }
-  },
-  {
-    "id": "7",
-    "employeeId": "TN1006",
-    "name": "Vignesh Kumar",
-    "created": "2026-02-07",
-    "start_date": "2026-02-07",
-    "end_date": "2026-02-07",
-    "status": {
-      "lastChanged": "2026-02-07",
-      "status": "approved"
-    },
-    "type": { "name": "Vacation" },
-    "amount": { "value": "1" }
-  },
-  {
-    "id": "8",
-    "employeeId": "TN1001",
-    "name": "Arun Kumar",
-    "created": "2026-02-10",
-    "start_date": "2026-02-11",
-    "end_date": "2026-02-11",
-    "status": {
-      "lastChanged": "2026-02-10",
-      "status": "approved"
-    },
-    "type": { "name": "Casual Leave" },
-    "amount": { "value": "1" }
   }
 ]
