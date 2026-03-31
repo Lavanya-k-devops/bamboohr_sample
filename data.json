@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "employeeId": "TN1001",
+    "name": "Arun Kumar",
+    "created": "2026-01-25",
+    "start_date": "2026-01-28",
+    "end_date": "2026-01-28",
+    "lastChanged": "2026-01-26",
+    "status": "approved",
+    "type": "Vacation",
+    "amount": "1"
+  },
+  {
+    "id": "2",
+    "employeeId": "TN1002",
+    "name": "Priya Lakshmi",
+    "created": "2026-01-27",
+    "start_date": "2026-01-29",
+    "end_date": "2026-01-29",
+    "lastChanged": "2026-01-28",
+    "status": "approved",
+    "type": "Sick Leave",
+    "amount": "1"
+  },
+  {
+    "id": "3",
+    "employeeId": "TN1003",
+    "name": "Karthik Raj",
+    "created": "2026-01-29",
+    "start_date": "2026-01-30",
+    "end_date": "2026-01-30",
+    "lastChanged": "2026-01-30",
+    "status": "approved",
+    "type": "Vacation",
+    "amount": "1"
+  },
+  {
+    "id": "4",
+    "employeeId": "TN1004",
+    "name": "Meena Subramani",
+    "created": "2026-01-30",
+    "start_date": "2026-01-31",
+    "end_date": "2026-01-31",
+    "lastChanged": "2026-01-31",
+    "status": "approved",
+    "type": "Casual Leave",
+    "amount": "1"
+  },
+  {
+    "id": "5",
+    "employeeId": "TN1005",
+    "name": "Suresh Babu",
+    "created": "2026-01-31",
+    "start_date": "2026-01-31",
+    "end_date": "2026-01-31",
+    "lastChanged": "2026-01-31",
+    "status": "approved",
+    "type": "Vacation",
+    "amount": "1"
+  }
+]
