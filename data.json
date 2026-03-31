@@ -103,8 +103,8 @@
       "unit": "days",
       "value": "1"
     }
-  }
-  [
+  },
+  
   {
     "id": "6",
     "employeeId": "TN1001",
@@ -147,5 +147,4 @@
     "type": { "name": "Casual Leave" },
     "amount": { "value": "1" }
   }
-]
 ]
